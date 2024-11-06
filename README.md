@@ -23,3 +23,5 @@ Syntax Checks: I used ChatGPT for quick syntax verification and troubleshooting.
 
 Next Steps
 I’m excited to move on to CSS styling. This will allow me to bring the design to life and implement more advanced formatting and layout concepts.
+
+Note: This project took me one hour to complete
