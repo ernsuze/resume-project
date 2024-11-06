@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width"/>
+		<title>Single Page HTML Resume</title>
+</head>
+
+
+<body>
+<h1>Ernsuze Jean</h1>
+<h3>Front-End Developer</h3>
+
+<h2>Silver Springs, MD</h2>
+
+<h3>Skills</h3>
+<h2>
+	<ul>
+		<li>HTML</li>
+		<li>CSS</li>
+		<li>JavaScript</li>
+		<li>Figma to Design</li>
+		<li>Lucid Chart</li>
+		<li>Graphic Design</li>
+		<li>UX/UI Design</li>
+		<li>Database Management</li>
+		<li>Tableau</li>
+		<li>Data Analytics</li>
+</ul>
+</h2>
+
+<h2> Education </h2>
+<h3>Broward College - Bachelors in Technology Management</h3>
+
+<h
+
+
+</body>
+
+</html>
